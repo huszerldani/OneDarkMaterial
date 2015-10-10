@@ -11,7 +11,7 @@ Download the .zip file and extract it to somewhere in you enviorenment.
 Open your Sublime Text 3, and on the menu choose "Preferences -> Browse Packages". Thats your packages folder. 
 
 ### 3. Paste Folder
-Copy the preivous extracted folder and paste it directly on your Packages Folder.
+Copy the previous extracted folder, create a new folder on your Packages Folder and name it "OneDarkMaterial". Paste the content inside the newly created folder.
 
 ### 4. Change preferences
 Now go to the menu again and "Preferences -> Settings - User".
