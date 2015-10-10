@@ -27,4 +27,5 @@ Paste or replace the following text.
 
 # Credits
 Original Repo: https://github.com/equinusocio/material-theme
+
 One Dark Color Scheme: https://github.com/IceTimux/one-dark-sublime-text-3-color-scheme
