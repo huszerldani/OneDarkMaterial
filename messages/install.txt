@@ -1,10 +1,6 @@
-Edit I made to the material theme for sublime text to go well with the Facebook color scheme.
+AUTHOR: @rafamds - rafaelsantos.ml
+BASED ONE: Material Theme by Mattia Astorino
 
-Original Repo: https://github.com/equinusocio/material-theme
+To install, open your Preferences > Settings - User and replace with the following line
 
-Facebook Color Scheme: http://colorsublime.com/?q=facebook (there's a ST plugin for colorsublime if you want to grab that)
-
-NOTE: You may need to uninstall the original material theme if you already have that.
-
-Installation:
-"theme": "Material-Theme.sublime-theme",
+"theme": "OneDarkMaterial.sublime-theme",
