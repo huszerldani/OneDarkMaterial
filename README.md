@@ -3,7 +3,19 @@
 I've made this package to turn combine to awesome things in two awesome text editors. Combining Sublime Text 3 speed with Atom.io UI Theme and color scheme, with some modern modifications using material design concept.
 This is my perfect workspace and I hope someone like it to. Use it without any problem, and tell me what do you like or would like to change in the theme.
 
-# Installation
+# Package Control Installation
+
+Open your Sublime Text 3 and than use the Package Control plugin to install a new package. Search for `One Dark Material - Theme` and click on it to install it.
+
+After that, go to "Preferences -> Settings - User" and paste or replace the with the following text:
+
+```javascript
+"theme": "OneDarkMaterial.sublime-theme",
+```
+
+Close and open Sublime Text again, so all the changes can take effect.
+
+# Manual Installation
 ### 1. Download
 Download the .zip file and extract it to somewhere in you enviorenment. 
 
