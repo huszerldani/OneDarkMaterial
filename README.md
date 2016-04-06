@@ -1,3 +1,8 @@
+![Abandoned](https://img.shields.io/badge/status-abandonend-red.svg)
+> **NOTE**: Due to recent events, I had to abandon this project. Looking for someone who may want to continue this.
+
+===
+
 ![OneDarkMaterial](http://i.imgur.com/ROCkUT5.png)
 
 I've made this package to turn combine to awesome things in two awesome text editors. Combining Sublime Text 3 speed with Atom.io UI Theme and color scheme, with some modern modifications using material design concept.
