@@ -1,4 +1,4 @@
-![Abandoned](https://img.shields.io/badge/status-abandonend-red.svg)
+![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 > **NOTE**: Due to recent events, I had to abandon this project. Looking for someone who may want to continue this.
 
 ===
